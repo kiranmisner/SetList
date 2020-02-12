@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<?xml-stylesheet type="text/css" href="setlistcss.css"?> 
+<Setlist>
+	<header> Tonight's Setlist </header> 
+	<Song>
+		<image>
+
+		</image>
+		<name> The Box </name>
+		<artist> Roddy Rich </artist>
+		<genre> Rap </genre>
+		<year> 2019 </year>
+	</Song>
+
+	<Song>
+		<image>
+
+		</image>
+		<name> Roxanne </name>
+		<artist> Arizona Zervas </artist>
+		<genre> Rap </genre>
+		<year> 2019 </year>
+	</Song>
+
+	<Song>
+		<image>
+
+		</image>
+		<name> Panini </name>
+		<artist> Lil Nas X </artist>
+		<genre> Pop </genre>
+		<year> 2019 </year>
+	</Song>
+	<Song>
+		<image>
+
+		</image>
+		<name> Someone You Loved </name>
+		<artist> Lewis Capaldi </artist>
+		<genre> Indie </genre>
+		<year> 2018 </year>
+	</Song>
+	<Song>
+		<image>
+
+		</image>
+		<name> Robbery </name>
+		<artist> Juice WRLD </artist>
+		<genre> Rap </genre>
+		<year> 2019 </year>
+	</Song>
+	<Song>
+		<image>
+
+		</image>
+		<name> Circles </name>
+		<artist> Post Malone </artist>
+		<genre> Rap </genre>
+		<year> 2019 </year>
+	</Song>
+	<Song>
+		<image>
+
+		</image>
+		<name> Dance Monkey </name>
+		<artist> Tones and I </artist>
+		<genre> Pop </genre>
+		<year> 2019 </year>
+	</Song>
+	<Song>
+		<image>
+
+		</image>
+		<name> HIGHEST IN THE ROOM </name>
+		<artist> Travis Scott </artist>
+		<genre> Rap </genre>
+		<year> 2019 </year>
+	</Song>
+	<Song>
+		<image>
+
+		</image>
+		<name> Godzilla </name>
+		<artist> Eminem ft. Juice WRLD </artist>
+		<genre> Rap </genre>
+		<year> 2019 </year>
+	</Song>
+	<Song>
+		<image>
+
+		</image>
+		<name> Murder on my Mind </name>
+		<artist> YNW Melly </artist>
+		<genre> Rap </genre>
+		<year> 2017 </year>
+	</Song>
+	<Song>
+		<image>
+
+		</image>
+		<name> Sunday Candy</name>
+		<artist> Chance the Rapper </artist>
+		<genre> Rap/Pop </genre>
+		<year> 2015 </year>
+	</Song>
+</Setlist>
